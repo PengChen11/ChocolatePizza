@@ -40,7 +40,6 @@ body {
     width:960px;
     height:12px;
     background-image: url("../img/hrimg.png");
-    z-index: -1;
 }
 
 main {

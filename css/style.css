@@ -102,6 +102,13 @@ article p {
     font-size: 25px;
 
 }
+li.hardline {
+    display: inline-block;
+    margin-left: 10px;
+}
+input[type=checkbox]:checked + li.hardline{
+    text-decoration: line-through;
+}
 
 #bio{
     width: 960px;
